@@ -12,3 +12,4 @@
     - vim
     - make
     - iptables
+    - ufw
